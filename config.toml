@@ -1,3 +1,125 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl      = "https://www.janicek.cc"
+title        = "Hugo Janicek"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "Imagine"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable theme toggle
+  enableThemeToggle = true
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  #Global language menu
+  enableGlobalLanguageMenu = false
+
+  # Metadata mostly used in document's head
+  description = "Homepage of Hug000"
+  keywords = "homepage, blog"
+  images = [""]
+
+[author]
+  name = "Hugo Janicek"
+
+
+[taxonomies]
+  category = "blog"
+  tag      = "tags"
+  series   = "series"
+
+
+[params.footer]
+  trademark = true
+  rss = true
+  copyright = true
+  author = true
+
+  topText = []
+  bottomText = []
+
+
+# Logo Appereance
+[params.logo]
+  logoMark          = ">"
+  logoText          = "$ cd /home/"
+  logoHomeLink      = "/"
+  logoCursorColor   = "#23a808"
+  locoCursorAnimate = "2s"
+
+# Portrait on Start Page
+[params.portrait]
+  path     = "/img/portrait.png"
+  alt      = "Portrait"
+  maxWidth = "100px"
+
+
+# Social Icons
+[[params.social]]
+  name   = "discord"
+  url    = "https://discordapp.com/users/hug000#1337"
+
+[[params.social]]
+  name   = "email"
+  url    = "mailto:philipp.janicek@gmail.com"
+
+[[params.social]]
+  name   = "facebook"
+  url    = "https://www.facebook.com/Hug000"
+
+[[params.social]]
+  name   = "github"
+  url    = "https://github.com/FILXxL"
+
+[[params.social]]
+  name   = "instagram"
+  url    = "https://www.instagram.com/fil_xxl/"
+
+[[params.social]]
+  name   = "steam"
+  url    = "https://steamcommunity.com/id/ttv_hug000/"
+
+[[params.social]]
+  name   = "twitch"
+  url    = "https://www.twitch.tv/hug000"
+
+[[params.social]]
+  name   = "twitter"
+  url    = "https://twitter.com/fil_xxl"
+
+[[params.social]]
+  name   = "youtube"
+  url    = "https://www.youtube.com/channel/UCgiYocPugNXI-MQ6zYvnR7g"
+
+[languages]
+  [languages.en]
+    subtitle = "Imagine"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
