@@ -1,5 +1,5 @@
-baseurl      = "https://www.janicek.cc"
-title        = "Hugo Janicek"
+baseurl      = "https://www.hug000.tk"
+title        = "Hug00"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
@@ -11,7 +11,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Imagine"
+  homeSubtitle = "Tech Nerd | Streamer | ButtonPusher"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -31,7 +31,7 @@ paginate     = 10
   images = [""]
 
 [author]
-  name = "Hugo Janicek"
+  name = "Hug000"
 
 
 [taxonomies]
@@ -62,21 +62,13 @@ paginate     = 10
 [params.portrait]
   path     = "/img/portrait.png"
   alt      = "Portrait"
-  maxWidth = "100px"
+  maxWidth = "200px"
 
 
 # Social Icons
 [[params.social]]
   name   = "discord"
   url    = "https://discordapp.com/users/hug000#1337"
-
-[[params.social]]
-  name   = "email"
-  url    = "mailto:philipp.janicek@gmail.com"
-
-[[params.social]]
-  name   = "facebook"
-  url    = "https://www.facebook.com/Hug000"
 
 [[params.social]]
   name   = "github"
@@ -101,18 +93,6 @@ paginate     = 10
 [[params.social]]
   name   = "youtube"
   url    = "https://www.youtube.com/channel/UCgiYocPugNXI-MQ6zYvnR7g"
-
-[languages]
-  [languages.en]
-    subtitle = "Imagine"
-    keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Read other posts"
-
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
 
   # And you can even create generic menu
   [[menu.main]]
