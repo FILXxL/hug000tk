@@ -4,6 +4,7 @@ date: 2022-12-07T19:20:28+01:00
 draft: false
 ---
 Hi, mein Name ist Hug000. Wie es auch schon einleitend auf meiner Homepage zu sehen ist, beschreiben mich diese Attribute am besten:
+
 1. 🤖 Tech Nerd
 2. 🎥 Streamer
 3. 📷 Photographer
