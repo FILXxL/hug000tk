@@ -39,6 +39,7 @@ WICHTIG: OBS jetzt nocht nicht starten!!
 
 1. Rechtsklick auf die Verknüpfung und **Eigenschaften** auswählen.
 2. Im Feld **"Ziel"** hinter dem Pfad *--portable* dazuschreiben.
+
 ```
 C:\[pfad_zum_ordner]\bin\64bit\obs64.exe --portable
 ```
