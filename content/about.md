@@ -37,6 +37,7 @@ Vor Kurzem hat sich mein Fokus auf das Hosten von Homepages erweitert. (Und das 
 Hier die Auflistung meines aktuellen Homelabs, das von mir gebaut und natürlich auch regelmäßig gewartet und erweitert wird.
 
 **Main PC**
+
 *CPU*: AMD Ryzen 5 3600 (OC auf 4 Ghz)
 *GPU*: Gainward Geforce RTX 2070 Super Phoenix
 *MoBo*: Gigabyte B40M DS3h
@@ -45,6 +46,7 @@ Hier die Auflistung meines aktuellen Homelabs, das von mir gebaut und natürlich
 *Betriebssystem*: Windows 10 Pro
 
 **Main Peripherie**
+
 *Monitore*: Acer EI491CR (32:9 1080p), LG GSM7714 (21:9, 1080p)
 *Tastatur*: Royal Kludge RK 61 (mit custom lubed Gateron Yellow Switches)
 *Maus*: Logitech G502x
@@ -52,6 +54,7 @@ Hier die Auflistung meines aktuellen Homelabs, das von mir gebaut und natürlich
 *diverses*: Elgato SteamDeck, Korg Nanokontrol 2
 
 **Server**
+
 *CPU*: Intel i5 4460
 *MoBo*: ASRock H97M Pro4
 *RAM*: 2x16GB DDR3
@@ -60,6 +63,7 @@ Hier die Auflistung meines aktuellen Homelabs, das von mir gebaut und natürlich
 *Docker*: calibre-web, cloudflared, Heimdall, Jellyfin, openHAB, paperless, UptimeKuma, ZerotierVPN, Minecraft-Server
 
 **Raspberry Pi 4**
+
 *Betriebssystem*: Raspberry Pi OS Server
 *Apps*: piHole
 
