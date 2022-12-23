@@ -23,7 +23,7 @@ Geht auf die offizielle Homepage des OBS-Projects und ladet euch die **.zip Date
 Wählt einen beliebigen Speicherort wo ihr OBS hinhaben wollt und entpackt die **.zip** dorthin.
 Nach dem Entpacken sollte der Inhalt eures Ordners so aussehen:
 
-![OBS_portable_raw.PNG](/img/obs_portable/OBS_portable_raw.png)
+![OBS_portable_raw.PNG](/img/obs_portable/OBS_portable_raw.PNG)
 
 ```
 WICHTIG: OBS jetzt nocht nicht starten!!
@@ -35,7 +35,7 @@ WICHTIG: OBS jetzt nocht nicht starten!!
 2. Die Datei **obs64.exe** suchen. Auf diese Datei rechtsklicken und eine Verknüpfung erstellen.
 3. Die Verknüpfung schieben wir am besten in unseren OBS-Stammordner. Unser Ordner sollte nun so aussehen:
 
-![OBS_portable_verknüpfung.PNG](/img/obs_portable/OBS_portable_shortcut.png)
+![OBS_portable_shortcut.PNG](/img/obs_portable/OBS_portable_shortcut.PNG)
 
 1. Rechtsklick auf die Verknüpfung und **Eigenschaften** auswählen.
 2. Im Feld **"Ziel"** hinter dem Pfad *--portable* dazuschreiben.
@@ -43,11 +43,11 @@ WICHTIG: OBS jetzt nocht nicht starten!!
 C:\[pfad_zum_ordner]\bin\64bit\obs64.exe --portable
 ```
 
-![OBS_portable_ziel.PNG](/img/obs_portable/OBS_portable_ziel.png)
+![OBS_portable_ziel.PNG](/img/obs_portable/OBS_portable_ziel.PNG)
 
 1. Fertig! Wir können nun die Verknüpfung öffnen und unser OBS normal konfigurieren. Um sicher zu gehen, dass alles funktioniert hat, können wir nochmal in den OBS Ordner surfen. Nun sollte ein neuer Ordner namens **Config** angelegt worden sein. Hier werden nun alle Dateien abgelegt, die sonst irgendwo versteckt im System angelegt werden.
 
-![OBS_portable_config.PNG](/img/obs_portable/OBS_portable_config.png)
+![OBS_portable_config.PNG](/img/obs_portable/OBS_portable_config.PNG)
 
 ## Backup
 
