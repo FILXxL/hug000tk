@@ -37,8 +37,8 @@ WICHTIG: OBS jetzt nocht nicht starten!!
 
 ![OBS_portable_shortcut.PNG](/img/obs_portable/OBS_portable_shortcut.PNG)
 
-1. Rechtsklick auf die Verknüpfung und **Eigenschaften** auswählen.
-2. Im Feld **"Ziel"** hinter dem Pfad *--portable* dazuschreiben.
+4. Rechtsklick auf die Verknüpfung und **Eigenschaften** auswählen.
+5. Im Feld **"Ziel"** hinter dem Pfad *--portable* dazuschreiben.
 
 ```
 C:\[pfad_zum_ordner]\bin\64bit\obs64.exe --portable
@@ -46,7 +46,7 @@ C:\[pfad_zum_ordner]\bin\64bit\obs64.exe --portable
 
 ![OBS_portable_ziel.PNG](/img/obs_portable/OBS_portable_ziel.PNG)
 
-1. Fertig! Wir können nun die Verknüpfung öffnen und unser OBS normal konfigurieren. Um sicher zu gehen, dass alles funktioniert hat, können wir nochmal in den OBS Ordner surfen. Nun sollte ein neuer Ordner namens **Config** angelegt worden sein. Hier werden nun alle Dateien abgelegt, die sonst irgendwo versteckt im System angelegt werden.
+6. Fertig! Wir können nun die Verknüpfung öffnen und unser OBS normal konfigurieren. Um sicher zu gehen, dass alles funktioniert hat, können wir nochmal in den OBS Ordner surfen. Nun sollte ein neuer Ordner namens **Config** angelegt worden sein. Hier werden nun alle Dateien abgelegt, die sonst irgendwo versteckt im System angelegt werden.
 
 ![OBS_portable_config.PNG](/img/obs_portable/OBS_portable_config.PNG)
 
