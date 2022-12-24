@@ -99,4 +99,9 @@ Das ist ein Spitzname den ich mir aus einem bestimmten Grund auf einem Discord-S
 ## Links und Referenzen
 
  [Comfy Sabers Turney 2022 VOD](https://www.youtube.com/watch?v=SwwWGm8KeYU&t)  
+
+{{< youtube SwwWGm8KeYU >}}
+
  [Danube Ttans Youtube](https://www.youtube.com/@danubetitansofficial8004)
+
+ {{< youtube YWtgfs84kMI >}}
