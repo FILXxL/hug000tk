@@ -79,7 +79,7 @@ Dieses angesammelte Wissen nutzte ich um die Heimspiele der  [Danube Titans](htt
 
 ## Photographer
 
-Schon als Kind hatte ich den Jobwunsch mal `Kameramann` zu werden. Daher lag es nahe, dass ich nach meiner Grundausbildung nur einen Weg gab. Und zwar [die Graphische](https://www.graphische.net/).(Höhere Bundes-Lehr und Versuchsanstalt in Wien) Dort habe ich nach 5 Jahren Ausbildung einen Abschluss in *Photographie und audiovisuelle Medien* erlangt.
+Schon als Kind hatte ich den Jobwunsch mal `Kameramann` zu werden. Daher lag es nahe, dass es nach meiner Pflichtschulzeit nur einen Weg gab. Und zwar [die Graphische](https://www.graphische.net/).(Höhere Bundes-Lehr und Versuchsanstalt in Wien) Dort habe ich nach 5 Jahren Ausbildung einen Abschluss in *Photographie und audiovisuelle Medien* erlangt.
 
 ## Gamer
 
