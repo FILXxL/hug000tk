@@ -2,13 +2,15 @@
 title: "Portable OBS"
 date: 2022-12-23T04:12:05+01:00
 draft: false
-toc: false
+toc: true
 images:
+
+categories:
+    - Tutorials
+  
 tags:
-  - tutorial
-  - blog
-  - obs
-  - windows
+  - OBS
+  - Windows
 ---
 In diesem Tutorial zeige ich euch wie ihr OBS komplett portabel nutzen könnt. (Das bedeutet, sämtliche Configfiles befinden sich im selben Ordner --> perfekt für ein Backup)
 

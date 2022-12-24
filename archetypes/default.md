@@ -6,7 +6,7 @@ url: /{{ .Name }}/
 image: img/thumbs/{{ .Name }}.png
 
 categories:
-    - Tutorial
+    - Tutorials
   
 tags:
     - OBS
