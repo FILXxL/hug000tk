@@ -4,8 +4,6 @@ languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
 
-custom_css = ["css/custom.css"]
-
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -105,3 +103,5 @@ custom_css = ["css/custom.css"]
     identifier = "about"
     name       = "About"
     url        = "/about"
+
+customCSS = ["css/custom.css"]

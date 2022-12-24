@@ -71,7 +71,3 @@
     {{ template "_internal/google_analytics.html" . }}
 {{- end}}
 
-// css
-{{ range .Site.Params.custom_css -}}
-    <link rel="stylesheet" href="{{ . | absURL }}">
-{{- end }}
