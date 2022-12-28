@@ -51,7 +51,7 @@ C:\[pfad_zum_ordner]\bin\64bit\obs64.exe --portable
 
 6. Fertig! Wir können nun die Verknüpfung öffnen und unser OBS normal konfigurieren. Um sicher zu gehen, dass alles funktioniert hat, können wir nochmal in den OBS Ordner surfen. Nun sollte ein neuer Ordner namens **Config** angelegt worden sein. Hier werden nun alle Dateien abgelegt, die sonst irgendwo versteckt im System angelegt werden.
 
-![OBS_portable_config.PNG](/img/obs_portable/OBS_portable_config.png)
+![OBS_portable_config.PNG](/img/obs_portable/OBS_portable_config1.png)
 
 ## Backup
 
